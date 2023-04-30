@@ -1,0 +1,1 @@
+Read more on uploading images to Firebase via React Native CLI here:https://medium.com/@wilsonochieng718/react-native-cli-uploading-images-to-firebase-storage-without-expo-a8561167d951
